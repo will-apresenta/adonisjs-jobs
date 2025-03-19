@@ -1,6 +1,6 @@
 import { BaseCommand, flags } from '@adonisjs/core/ace'
 import type { CommandOptions } from '@adonisjs/core/types/ace'
-import initJobs from '../services/init-jobs.js'
+import initJobs from '../services/init_jobs.js'
 
 export default class JobsListen extends BaseCommand {
   static commandName = 'jobs:listen'
