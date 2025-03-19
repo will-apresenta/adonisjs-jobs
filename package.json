@@ -1,9 +1,9 @@
 {
   "name": "adonisjs-jobs",
   "description": "Job processing for AdonisJS",
-  "homepage": "https://github.com/KABBOUCHI/adonisjs-jobs#readme",
+  "homepage": "https://github.com/will-apresenta/adonisjs-jobs#readme",
   "license": "MIT",
-  "author": "Georges KABBOUCHI <georges.kabbouchi@gmail.com>",
+  "author": "William Gabriel Pereira <william.pereira@apresenta.me>",
   "keywords": [
     "adonisjs",
     "jobs",
